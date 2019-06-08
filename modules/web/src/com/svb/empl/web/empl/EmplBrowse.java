@@ -60,9 +60,6 @@ public class EmplBrowse extends StandardLookup<Empl> {
 				withScreenClass(EmplEdit.class).
 				withLaunchMode(OpenMode.NEW_TAB).
 				build().show();
-
-
-
 	}
 	
 	
